@@ -3,6 +3,7 @@ var React = require("react");
 var Nav = require("Nav");
 var Weather = require("Weather");
 
+// main component definition
 var Main = (props) => {
     return (
         <div>
