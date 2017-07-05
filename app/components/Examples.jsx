@@ -10,13 +10,10 @@ var Examples = (props) => {
             <p>test out different locations test out different locations</p>
             <ol>
                 <li>
-                    <Link to='/?location=SF'>SF</Link>
+                    <Link to='/?location=Chicago'>Chicago</Link>
                     </li>
                 <li>
-                    <Link to='/?location=NY'>NY</Link>
-                </li>
-                <li>
-                    <Link to='/?location=CA'>CA</Link>
+                    <Link to='/?location=Miami'>Miami</Link>
                 </li>
             </ol>
         </div>
